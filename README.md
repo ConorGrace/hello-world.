@@ -1,2 +1,1 @@
-# hello-world.
-this is a respository called hello-world created for software engineering
+My name is Conor Grace. I am a student at WIT. Nice to meet you
